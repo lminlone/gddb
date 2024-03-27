@@ -1,43 +1,38 @@
 {
     "godot": {
-        "name": "Godot",
+        "friendlyName": "Godot",
         "description": "The vanilla code base for Godot",
-        "github_uri": "godotengine/godot",
-        "main_branch": "master"
+        "githubUri": "godotengine/godot"
     },
-    "the_mirror": {
-        "name": "The Mirror",
+    "theMirror": {
+        "friendlyName": "The Mirror",
         "description": "The Mirror's fork of Godot Engine, used as the base for the Roblox & UEFN alternative. An all-in-one game development platform",
-        "github_uri": "the-mirror-gdp/godot",
-        "main_branch": "master",
-        "notable_features": [
+        "githubUri": "the-mirror-gdp/godot",
+        "notableFeatures": [
 
         ]
     },
     "lminlone": {
-        "name": "lminl One Engine",
+        "friendlyName": "lminl One Engine",
         "description": "lminl One fork of Godot with ",
-        "github_uri": "lminlone/godot",
-        "main_branch": "master",
-        "notable_features": [
+        "githubUri": "lminlone/godot",
+        "notableFeatures": [
             
         ]
     },
     "eirteam": {
-        "name": "EIRTeam",
-        "description": "Godot Engine – Multi-platform 2D and 3D game engine (EIRTeam fork) AKA the Shinobu Engine AKA the engine that powers Project Heartbeat",
-        "github_uri": "EIRTeam/godot",
-        "main_branch": "0.13",
-        "notable_features": [
+        "friendlyName": "EIRTeam",
+        "description": "Godot Engine - Multi-platform 2D and 3D game engine (EIRTeam fork) AKA the Shinobu Engine AKA the engine that powers Project Heartbeat",
+        "githubUri": "EIRTeam/godot",
+        "notableFeatures": [
             
         ]
     },
-    "big_world": {
-        "name": "Godot for 3D open worlds",
+    "bigWorld": {
+        "friendlyName": "Godot for 3D open worlds",
         "description": "This flavor of Godot 4.x engine is made to accommodate large open-world 3D games",
-        "github_uri": "roalyr/godot-for-3d-open-worlds",
-        "main_branch": "master",
-        "notable_features": [
+        "githubUri": "roalyr/godot-for-3d-open-worlds",
+        "notableFeatures": [
             "Far plane (z-far) upper limit is set to 9e18 meters",
             "Large World Coordinates are used when compiling (double precision floats)",
             "Increased editor zoom out distance to galactic scale (depth buffer must be adjusted for such scales, see below)",
