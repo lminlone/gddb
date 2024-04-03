@@ -1,37 +1,32 @@
 {
-    "godot": {
+    "godotengine/godot": {
         "friendlyName": "Godot",
         "description": "The vanilla code base for Godot",
-        "githubUri": "godotengine/godot"
     },
-    "theMirror": {
+    "the-mirror-gdp/godot": {
         "friendlyName": "The Mirror",
         "description": "The Mirror's fork of Godot Engine, used as the base for the Roblox & UEFN alternative. An all-in-one game development platform",
-        "githubUri": "the-mirror-gdp/godot",
         "notableFeatures": [
 
         ]
     },
-    "lminlone": {
+    "lminlone/godot": {
         "friendlyName": "lminl One Engine",
         "description": "lminl One fork of Godot with ",
-        "githubUri": "lminlone/godot",
         "notableFeatures": [
             
         ]
     },
-    "eirteam": {
+    "EIRTeam/godot": {
         "friendlyName": "EIRTeam",
         "description": "Godot Engine - Multi-platform 2D and 3D game engine (EIRTeam fork) AKA the Shinobu Engine AKA the engine that powers Project Heartbeat",
-        "githubUri": "EIRTeam/godot",
         "notableFeatures": [
             
         ]
     },
-    "bigWorld": {
+    "roalyr/godot-for-3d-open-worlds": {
         "friendlyName": "Godot for 3D open worlds",
         "description": "This flavor of Godot 4.x engine is made to accommodate large open-world 3D games",
-        "githubUri": "roalyr/godot-for-3d-open-worlds",
         "notableFeatures": [
             "Far plane (z-far) upper limit is set to 9e18 meters",
             "Large World Coordinates are used when compiling (double precision floats)",
