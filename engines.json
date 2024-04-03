@@ -1,7 +1,7 @@
 {
     "godotengine/godot": {
         "friendlyName": "Godot",
-        "description": "The vanilla code base for Godot",
+        "description": "The vanilla code base for Godot"
     },
     "the-mirror-gdp/godot": {
         "friendlyName": "The Mirror",
